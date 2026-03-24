@@ -3,8 +3,6 @@ This is a list of TODOs for the next years, mostly for internal purposes of the 
 
 Karel:
 
-Domluvit guest lecture
-
 Ondra:
 
 - Pripravit cviceni na GAN
@@ -19,3 +17,9 @@ HW 1
   - hyperparameter selection
   - model score validation
   - SHAP value interpretation
+
+Next year
+(Karel) 
+- TODO random forest, doplnit nazev promenne do ktere ulozit model do zadani
+- opravit popis u Random Forest sekce (The task is to predict if tomorrow is going to rain) - neni pravda predikujeme teplotu
+- random forest paramaters add random_state
