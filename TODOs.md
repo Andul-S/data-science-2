@@ -40,3 +40,7 @@ res = pd.DataFrame(res, columns = ['predictor', 'permutation_importance', 'iqr05
 res = res.sort_values('permutation_importance', ascending=False).reset_index(drop=True)
 res
 ```
+
+- prozkoumat categorical variables support v XGBoost
+- xgboost plot marginal dependence vsechny variables
+- hyperparam add optuna
